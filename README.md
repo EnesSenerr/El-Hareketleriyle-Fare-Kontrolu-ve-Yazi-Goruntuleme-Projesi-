@@ -2,9 +2,9 @@
 
 Bu proje, bilgisayar kamerası aracılığıyla yapılan el hareketleriyle fare işlevlerini kontrol etmeyi ve yazı görüntülemeyi amaçlamaktadır. Proje, makine öğrenmesi teknikleri ve derin öğrenme algoritmalarını kullanarak el hareketlerini tanımaktadır.  
 
-!(https://github.com/user-attachments/assets/22cae9c1-3a04-4b5f-a255-7e716b7ef66c)  
-!(https://github.com/user-attachments/assets/52cbefcc-b8ed-4a37-8604-5db50561b06b)  
-!(https://github.com/user-attachments/assets/599856bb-02c9-44d3-b079-b88a02874279)  
+![Image](https://github.com/user-attachments/assets/22cae9c1-3a04-4b5f-a255-7e716b7ef66c)
+![Image](https://github.com/user-attachments/assets/52cbefcc-b8ed-4a37-8604-5db50561b06b)
+![Image](https://github.com/user-attachments/assets/599856bb-02c9-44d3-b079-b88a02874279)
 
 ## Özellikler  
 
