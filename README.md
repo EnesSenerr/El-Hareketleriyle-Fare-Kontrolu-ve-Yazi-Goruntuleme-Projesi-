@@ -1,36 +1,35 @@
+# El Hareketleriyle Fare Kontrolü ve Yazı Görüntüleme Projesi  
 
-# El Hareketleriyle Fare Kontrolu ve Yazi Goruntuleme Projesi
+Bu proje, bilgisayar kamerası aracılığıyla yapılan el hareketleriyle fare işlevlerini kontrol etmeyi ve yazı görüntülemeyi amaçlamaktadır. Proje, makine öğrenmesi teknikleri ve derin öğrenme algoritmalarını kullanarak el hareketlerini tanımaktadır.  
 
-Bu proje, bilgisayar kamerasi araciligiyle yapilan el hareketleriyle fare islevlerini kontrol etmeyi ve yazi goruntulemeyi hedeflemektedir. Proje, makine ogrenmesi teknikleri ve derin ogrenme algoritmalarini kullanarak el hareketlerini tanimaktadir.
-![Image](https://github.com/user-attachments/assets/22cae9c1-3a04-4b5f-a255-7e716b7ef66c)
+!(https://github.com/user-attachments/assets/22cae9c1-3a04-4b5f-a255-7e716b7ef66c)  
+!(https://github.com/user-attachments/assets/52cbefcc-b8ed-4a37-8604-5db50561b06b)  
+!(https://github.com/user-attachments/assets/599856bb-02c9-44d3-b079-b88a02874279)  
 
-![Image](https://github.com/user-attachments/assets/52cbefcc-b8ed-4a37-8604-5db50561b06b)
+## Özellikler  
 
-![Image](https://github.com/user-attachments/assets/599856bb-02c9-44d3-b079-b88a02874279)
-Ozellikler
+- **El Hareketleriyle Yazı Yazma**: Kullanıcı, tanımlanmış el hareketlerini kullanarak yazı yazabilir.  
+- **Makine Öğrenmesi**: Kullanıcı hareketleri kaydedilir ve bu verilerle bir makine öğrenmesi modeli eğitilerek el hareketleriyle yazı yazma işlemi gerçekleştirilir.  
 
-    El hareketiyle yazi yazma: Kullanici, tanimlanmis el hareketlerini kullanarak yazi yazabilir.
-    Makine ogrenmesi: KullanicI hareketleri kaydedildikten sonra, bu verilerle bir makine ogrenmesi modeli egitilir ve el hareketleri ile yazi yazma islemi yapilir.
+## Gereksinimler  
 
-Gereksinimler
+Bu projeyi çalıştırabilmek için aşağıdaki yazılımlara ihtiyacınız olacak:  
 
-Bu projeyi calistirabilmek icin asagidaki yazilimlara ihtiyaciniz olacak:
+- Python 3.x  
+- TensorFlow veya PyTorch (Makine öğrenmesi için)  
+- OpenCV (Görüntü işleme için)  
+- Mediapipe (El hareketlerini tanımak için)  
+- NumPy  
+- Matplotlib (Opsiyonel, görselleştirme için)  
 
-    Python 3.x
-    TensorFlow veya PyTorch (Makine ogrenmesi icin)
-    OpenCV (Goruntu isleme icin)
-    Mediapipe (El hareketlerini tanimak icin)
-    NumPy
-    Matplotlib (Opsiyonel, gorsellestirme icin)
+## Kurulum  
 
-Kurulum
-Adim 1: Python ve Bagimliliklarin Kurulumu
+### Adım 1: Python ve Bağımlılıkların Kurulumu  
+Gerekli kütüphaneleri aşağıdaki komutla yükleyebilirsiniz:  
 
-Asagidaki komutlarla gerekli kutuphaneleri yukleyebilirsiniz. (Kullandiginiz IDE'ye gore degiskenlik gosterebilir.)
-
+```bash
 pip install tensorflow opencv-python mediapipe numpy matplotlib
 
-Isterseniz onceden egitilmis modeli kullanarak asagidaki isaret dillerini tahmin etmesini gozlemleyebilirsiniz. 
+Adım 2: Önceden Eğitilmiş Modelin Kullanımı
 
-
-Umarim sorunsuz sekilde kullanabilirsiniz!
+Önceden eğitilmiş modeli kullanarak işaret dillerini tanımlayabilir ve el hareketlerine dayalı tahminlerde bulunabilirsiniz.
