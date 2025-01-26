@@ -2,7 +2,11 @@
 # El Hareketleriyle Fare Kontrolu ve Yazi Goruntuleme Projesi
 
 Bu proje, bilgisayar kamerasi araciligiyle yapilan el hareketleriyle fare islevlerini kontrol etmeyi ve yazi goruntulemeyi hedeflemektedir. Proje, makine ogrenmesi teknikleri ve derin ogrenme algoritmalarini kullanarak el hareketlerini tanimaktadir.
+![Image](https://github.com/user-attachments/assets/22cae9c1-3a04-4b5f-a255-7e716b7ef66c)
 
+![Image](https://github.com/user-attachments/assets/52cbefcc-b8ed-4a37-8604-5db50561b06b)
+
+![Image](https://github.com/user-attachments/assets/599856bb-02c9-44d3-b079-b88a02874279)
 Ozellikler
 
     El hareketiyle yazi yazma: Kullanici, tanimlanmis el hareketlerini kullanarak yazi yazabilir.
