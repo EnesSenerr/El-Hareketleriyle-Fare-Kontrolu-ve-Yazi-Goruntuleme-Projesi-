@@ -29,8 +29,8 @@ Bu projeyi çalıştırabilmek için aşağıdaki yazılımlara ihtiyacınız ol
 Bu repoyu kendi bilgisayarınıza klonlayın veya indirin: 
 
   ```bash
-git clone https://github.com/kullaniciadi/proje-adi.git
-cd proje-adi
+git clone [https://github.com/kullaniciadi/proje-adi.git](https://github.com/EnesSenerr/El-Hareketleriyle-Fare-Kontrolu-ve-Yazi-Goruntuleme-Projesi-.git)
+cd El-Hareketleriyle-Fare-Kontrolu-ve-Yazi-Goruntuleme-Projesi
 ```
 
 ### Adım 2: Python ve Bağımlılıkların Kurulumu
