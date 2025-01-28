@@ -65,23 +65,23 @@ Proje ile birlikte gelen "knn_model3.pkl" dosyası önceden eğitilmiş bir mode
 
 ## Kendi Modelinizi Eğitmek
 
-# 1. Veri Toplama:
+### 1. Veri Toplama:
 
 - Veriseti_olusturma.py dosyasını çalıştırarak veri toplayabilirsiniz.
 - current_label değişkenine hangi harf veya kelimeyi eğitmek istediğinizi girin.
 - Kaydı başlatmak için S tuşuna basın, bitirmek için tekrar S tuşuna basın.
 - Kaydı sonlandırmak için Q tuşunu kullanın.
 
-# 2. Veri Setlerinin Birleştirilmesi:
+### 2. Veri Setlerinin Birleştirilmesi:
 
 - Topladığınız tüm verileri Veriseti_birlestirme.py dosyasını kullanarak birleştirebilirsiniz.
 
 
-# 3. Model Eğitimi:
+### 3. Model Eğitimi:
 
 - Birleştirilmiş veri setini kullanarak Model_egitimi.py dosyası ile yeni bir model oluşturabilirsiniz.
 - Bu projede KNN (K-Nearest Neighbors) algoritması kullanılmıştır.
 
-# Not:
+### Not:
 
 Tüm işlemleri sonlandırmak için Q tuşunu kullanabilirsiniz.
