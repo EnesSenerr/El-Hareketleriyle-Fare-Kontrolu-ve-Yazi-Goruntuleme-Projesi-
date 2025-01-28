@@ -10,7 +10,7 @@ Bu proje, bilgisayar kamerası aracılığıyla yapılan el hareketleriyle fare 
 
 - **El Hareketleriyle Yazı Yazma**: Kullanıcı, tanımlanmış el hareketlerini kullanarak yazı yazabilir.  
 - **Makine Öğrenmesi**: Kullanıcı hareketleri kaydedilir ve bu verilerle bir makine öğrenmesi modeli eğitilir.
-- - **Fare Kontrolü**: Sol elin işaret parmağı ile fare imlecini hareket ettirme, sağ elin baş parmak ve işaret parmağını birleştirerek sol tıklama, baş parmak ve orta parmağını birleştirerek sağ tıklama işlevlerini gerçekleştirme.
+- **Fare Kontrolü**: Sol elin işaret parmağı ile fare imlecini hareket ettirme, sağ elin baş parmak ve işaret parmağını birleştirerek sol tıklama, baş parmak ve orta parmağını birleştirerek sağ tıklama işlevlerini gerçekleştirme.
 
 ## Gereksinimler  
 
